@@ -1,16 +1,12 @@
 <h1> Hi there, I'm Aryaman Gupta - aka <a href="https://www.linkedin.com/in/aryaman1210/">phoenixrider12<a> 👋 </h1>
 
-<!-- [![CoderResume](https://img.shields.io/website?label=Coder&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf)
-[![DeveloperResume](https://img.shields.io/website?label=Developer&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/)
-[![RoboticsResume](https://img.shields.io/website?label=Robotics&style=for-the-badge&url=https%3A%2F%2Fankur-agrawal-ece20.github.io%2FMyResume%2F)](https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf) -->
-
 
 ## I'm a Robotics and Machine Learning Enthusiast!! 
 
-- 🔭 I am a currently pursuing [B.Tech. in Electronics Engr. from IIT BHU][course]!
-- 🌱 I am passionate to join a reputed company to showcase my skills.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ My Hobbies: I love to draw and design.
+- 🔭 I am a currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
+- 🌱 I am passionate to learn and showcase my skills.
+- 🥅 2022 Goals: Contribute more to open source society and keep developing myself
+<!-- - ⚡ My Hobbies: I love to draw and design. -->
 
 <hr>
 
@@ -24,9 +20,6 @@
 
  
 [Mail]: aryaman.gupta.ece20@itbhu.ac.in/
-<!-- [CoderResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/CodingUreify.pdf
-[DeveloperResume]: https://ankur-agrawal-ece20.github.io/MyResume/
-[RoboticsResume]: https://ankur-agrawal-ece20.github.io/MyResume/src/RoboticsUreify.pdf -->
 [course]: https://www.iitbhu.ac.in/dept/ece
 [instagram]:https://www.instagram.com/_aryaman_gupta_/
 [linkedin]: https://www.linkedin.com/in/aryaman1210/
@@ -52,28 +45,13 @@
 
 
 
- 
- <!-- <br>
- :red_circle:
-  :red_circle:
-  :red_circle:
- <br> -->
  <br>
  <hr>
  
-<!-- ## :zap: Recent GitHub Activity 
-1. 🗣 Commented on [#22](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/22) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-2. 🗣 Commented on [#12](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/12) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-3. 🗣 Commented on [#13](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/13) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-4. 🗣 Commented on [#17](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/17) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
-5. 🗣 Commented on [#18](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP/issues/18) in [Ankur-Agrawal-ece20/Multiverse-CPP](https://github.com/Ankur-Agrawal-ece20/Multiverse-CPP)
- 
-<hr> -->
- 
-<!-- ## :zap: GitHub Stats  -->
+
 
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>
 <br/>
-**Thanks for contributing to this -->**
+**You just made a contribution -->**
 ![](https://komarev.com/ghpvc/?username=phoenixrider12&color=red)
