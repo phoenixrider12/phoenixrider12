@@ -70,10 +70,8 @@
  
 <hr> -->
  
-## :zap: GitHub Stats 
+<!-- ## :zap: GitHub Stats  -->
 
-  <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&hide_border=true&theme=radical" />
-
-<br/><br/>
-**You just made a contribution -->**
+![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<br/>**Thanks for contributing to this =>**
 ![](https://komarev.com/ghpvc/?username=phoenixrider12&color=red)
