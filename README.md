@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Aryaman Gupta - aka <a href="https://www.linkedin.com/in/aryaman1210/">phoenixrider12<a> 👋 </h1>
+<h1> Hi there, I'm Aryaman Gupta - aka <a href="https://github.com/phoenixrider12">phoenixrider12<a> 👋 </h1>
 
 
 ## I'm a Robotics and Machine Learning Enthusiast!! 
@@ -47,7 +47,6 @@
 
  <br>
  <hr>
- 
 
 
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
