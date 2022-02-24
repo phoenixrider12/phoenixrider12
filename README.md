@@ -19,11 +19,10 @@
 [<img align="left" alt="Aryaman | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
  
-[Mail]: aryaman.gupta.ece20@itbhu.ac.in/
+[Mail]: mailto:aryaman.gupta.ece20@itbhu.ac.in
 [course]: https://www.iitbhu.ac.in/dept/ece
 [instagram]:https://www.instagram.com/_aryaman_gupta_/
 [linkedin]: https://www.linkedin.com/in/aryaman1210/
-
  
  <br>
  <br>
