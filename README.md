@@ -37,16 +37,14 @@
 <h3 align="left"> Languages and Tools: </h3>
 
  
-<img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
-<img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png" 
-<img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />
-<img src="https://github.com/github/explore/blob/main/topics/keras/keras.png" width="40" height="40" />
-<img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
+<img align="left" src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
+<img align="left" src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png" width="40" height="40" />
+<img align="left" src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />
+<img align="left" src="https://github.com/github/explore/blob/main/topics/keras/keras.png" width="40" height="40" />
+<img align="left" src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img align="left"  src="<img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>" alt="c" width="40" height="40"/>
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" />
 
 
  
@@ -71,5 +69,6 @@
 
   <img align="left" alt="Ankur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&hide_border=true&theme=radical" />
 
-<br/>**You just made a contribution -->**
+<br/><br/>
+**You just made a contribution -->**
 ![](https://komarev.com/ghpvc/?username=phoenixrider12&color=red)
