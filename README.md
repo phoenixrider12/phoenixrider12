@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Aryaman Gupta - aka <a href="https://github.com/phoenixrider12">phoenixrider12<a> 👋 </h1>
+<h1> Hi there, I'm Aryaman Gupta 👋 </h1>
 
 
 ## I'm a Robotics and Machine Learning Enthusiast!! 
