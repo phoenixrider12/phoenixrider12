@@ -6,11 +6,9 @@
 - 🔭 I am a currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
 - 🌱 I am passionate to learn and showcase my skills.
 - 🥅 2022 Goals: Contribute more to open source society and keep developing myself
-<!-- - ⚡ My Hobbies: I love to draw and design. -->
 
 <hr>
 
-<!-- <h3 align="left"> Connect with me: </h3> -->
 ## Connect with me:
 
 
@@ -27,15 +25,12 @@
  <br>
  <br>
  
-<!-- <h3 align="left"> Languages and Tools: </h3> -->
 ## Languages and Tools:
-
-
 
 <code>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" /> 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
+<img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
@@ -50,12 +45,9 @@
 <br/>
 <hr>
 
-<!-- ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" alt="phoenixrider12" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phoenixrider12" />
-
 
 **You just made a contribution -->**
 <img src="https://komarev.com/ghpvc/?username=phoenixrider12&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixrider12" />
