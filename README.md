@@ -50,7 +50,9 @@
 <br/>
 <hr>
 
-![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<!-- ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" alt="phoenixrider12" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phoenixrider12" />
 
