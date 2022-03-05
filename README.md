@@ -52,9 +52,10 @@
 
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&locale=en&layout=compact" alt="phoenixrider12" />
+![Most Used Languages]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phoenixrider12" />
 
 <br/>
 <br/>
+
 **You just made a contribution -->**
-![](https://komarev.com/ghpvc/?username=phoenixrider12&color=red)
+![]<img src="https://komarev.com/ghpvc/?username=phoenixrider12&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixrider12" />
