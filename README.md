@@ -52,7 +52,7 @@
 
 ![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=phoenixrider12&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phoenixrider12" width="300" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixrider12&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phoenixrider12" width="50" height="50"/>
 
 
 **You just made a contribution -->**
