@@ -34,7 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
-<!-- <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" /> -->
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />
 <img src="https://github.com/github/explore/blob/main/topics/keras/keras.png" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
