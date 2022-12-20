@@ -5,7 +5,7 @@
 
 - 🔭 I am currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
 - 🌱 I am passionate to learn Robotics and Machine Learning in depth.
-- 🥅 2022 Goals: Contribute more to open source society and keep developing myself
+- 🥅 2023 Goals: Contribute more to open source society and keep developing myself
 
 <!-- <hr> -->
 
