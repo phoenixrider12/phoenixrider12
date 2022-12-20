@@ -27,7 +27,7 @@
  
 ## Languages and Tools:
 
-<code>
+<!-- <code> -->
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="50" height="50" />
@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
-</code>
+<!-- </code> -->
 
 <br/>
 <hr>
